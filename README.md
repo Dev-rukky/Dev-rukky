@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oghenerukevwe Agbadudu
+Hi <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px"/>My name is Oghenerukevwe Agbadudu
 ==============================================================================================================================================
 
 Web Developer and UI Designer
