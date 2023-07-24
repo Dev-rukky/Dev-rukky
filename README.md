@@ -1,7 +1,7 @@
 Hi <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px"/>My name is Oghenerukevwe Agbadudu
 ==============================================================================================================================================
 
-Web Developer and UI Designer
+Web Developer
 -----------------------------
 
 * 🌍  I'm based in Nigeria
