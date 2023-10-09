@@ -7,7 +7,7 @@ Web Developer
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://rukky-eosin.vercel.app/)
 * ✉️  You can contact me at [abrukevwe@gmail.com](mailto:abrukevwe@gmail.com)
-* 🧠  I'm learning JavaScript and React
+* 🧠  I'm learning React.Js and Next.Js
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
